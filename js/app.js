@@ -49,7 +49,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var mySwiper = new Swiper('.swiper-container', {
         effect: 'flip',
-        // loop: true,
+        loop: true,
+        hashNavigation: {
+            watchState: true,
+        }
         // If we need pagination
         // pagination: {
         // 	el: '.swiper-pagination',
