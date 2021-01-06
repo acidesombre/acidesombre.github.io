@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50940f34-04a6-45c7-8905-611bd95d17f8" name="Default Changelist" comment="" />
+    <list default="true" id="50940f34-04a6-45c7-8905-611bd95d17f8" name="Default Changelist" comment="upd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609923641855</updated>
       <workItem from="1609923642996" duration="1143000" />
+      <workItem from="1609959003765" duration="434000" />
+      <workItem from="1609959528577" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609924104418</created>
@@ -44,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609924104418</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upd">
+      <created>1609959035022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609959035022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,21 +65,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1609924103388">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1609960377068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609924103388" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609960377068" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1609924044781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609924044781" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609924150073">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609959042361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609924150072" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609959042361" />
     <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609924136503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
