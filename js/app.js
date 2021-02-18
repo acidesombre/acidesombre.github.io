@@ -95,4 +95,10 @@ document.addEventListener("DOMContentLoaded", function() {
             initQuestion(question);
         });
     }
+
+    var randomPages = document.querySelectorAll('.js-random-page');
+    randomPages.forEach((randomPage) => {
+        var number = getRandomInt(0, 32);
+        randomPage.textContent = number.toString().length > 1 ? number : '0' + number;
+    });
 });
